@@ -48,7 +48,4 @@ You can explore all my other projects on my GitHub profile: https://github.com/c
 
 Email: chidimma.ai2026@gmail.com
 
-LinkedIn: linkedin.com/in/your-linkedin
- (replace with your LinkedIn when ready)
-
 GitHub: https://github.com/chidimma-ai
